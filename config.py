@@ -1,0 +1,10 @@
+
+WIDTH = 50
+HEIGHT = 50
+
+SPARSE = 1
+BIRTH = 3
+DENSE = 4
+
+EMPTY = 0
+LIFE = 1
